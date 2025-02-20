@@ -1,4 +1,4 @@
-# LexiconHub
+# LexiStore
 
 # 📚 Library Management System in C++  
 
